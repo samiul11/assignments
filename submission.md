@@ -116,11 +116,7 @@ otherwise noted.
    updates, you will need to run the following command: 
 	* `git pull origin master`.
 
-10. For the first lab, you will submit the source code for the hello world
-   application and the answers to the three sets of questions. The skeleton code
-   for the application, `hello.c`, has been provided along with forms for the
-   questions. Autograder will run a set of test cases to verify your
-   implementation. Not all tests must pass to get a passing grade.
+10. For the first lab, you need to get familiar with whole process like using github and jupyter notebook etc and you can discuss the doubts pertaining to assignment, if any.
 
 11. In the following, we will use `Assignment-1.ipynb` as an example. Change directory to:
    `cd $GOPATH/src/github.com/uis-dat550-spring19/assignments/assignment1` and confirm that the files
